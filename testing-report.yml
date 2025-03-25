@@ -1,0 +1,48 @@
+---
+- summary: |
+    Проверка элементов сайта внутри игры
+  status: pass
+
+- summary: |
+    Проверка смены языка решения
+  status: pass
+
+- summary: |
+    Проверка старта игры с ботом
+  status: pass
+    
+- summary: |
+   Проверка старта игры с человеком
+  status: pass
+        
+- summary: |
+    Проверка старта игры с другом
+  status: pass
+
+- summary: |
+    Проверка смены уровня сложности игры
+  status: pass
+
+- summary: |
+    Просмотр завершенной игры
+  status: pass
+
+- summary: |
+    Проверка смены языка задачи
+  status: pass
+
+- summary: |
+    Проверка отправки сообщений в чате
+  status: pass
+
+- summary: |
+    Тестирование кроссбраузерности сайта (Firefox)
+  status: pass
+
+- summary: |
+    Тестирование кроссбраузерности сайта (Google Chrome)
+  status: pass
+
+- summary: |
+    Тестирование кроссбраузерности сайта (Safari)
+  status: fail
