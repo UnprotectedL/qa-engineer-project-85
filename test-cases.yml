@@ -151,8 +151,9 @@
   steps:
     - Выбрать в таблице браузер Firefox последней версии
     - Ввести в адресной строке https://codebattle.hexlet.io 
+    - Нажать Try simple battle
   expected-result: |
-    Сайт корректно открывается в браузере Firefox последней версии
+    Сайт доступен в браузере Firefox последней версии
 
 - summary: |
     Тестирование кроссбраузерности сайта (Google Chrome)
@@ -165,8 +166,9 @@
   steps:
     - Выбрать в таблице браузер Google Chrome последней версии
     - Ввести в адресной строке https://codebattle.hexlet.io 
+    - Нажать Try simple battle
   expected-result: |
-    Сайт корректно открывается в браузере Google Chrome последней версии
+    Сайт доступен в браузере Google Chrome последней версии
 
 - summary: |
     Тестирование кроссбраузерности сайта (Safari)
@@ -178,6 +180,7 @@
     Нет данных
   steps:
     - Выбрать в таблице браузер Safari последней версии
-    - Ввести в адресной строке https://codebattle.hexlet.io  
+    - Ввести в адресной строке https://codebattle.hexlet.io
+    - Нажать Try simple battle
   expected-result: |
-    Сайт корректно открывается в браузере Safari последней версии
+    Сайт доступен в браузере Safari последней версии
