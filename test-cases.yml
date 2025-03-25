@@ -150,7 +150,7 @@
     Нет данных
   steps:
     - Выбрать в таблице браузер Firefox последней версии
-    - Ввести в адресной строке адрес страницы https://codebattle.hexlet.io 
+    - Ввести в адресной строке https://codebattle.hexlet.io 
   expected-result: |
     Сайт корректно открывается в браузере Firefox последней версии
 
@@ -164,7 +164,7 @@
     Нет данных
   steps:
     - Выбрать в таблице браузер Google Chrome последней версии
-    - Ввести в адресной строке адрес страницы https://codebattle.hexlet.io 
+    - Ввести в адресной строке https://codebattle.hexlet.io 
   expected-result: |
     Сайт корректно открывается в браузере Google Chrome последней версии
 
@@ -178,6 +178,6 @@
     Нет данных
   steps:
     - Выбрать в таблице браузер Safari последней версии
-    - Ввести в адресной строке адрес страницы https://codebattle.hexlet.io  
+    - Ввести в адресной строке https://codebattle.hexlet.io  
   expected-result: |
     Сайт корректно открывается в браузере Safari последней версии
